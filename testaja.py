@@ -1,1 +1,4 @@
-print("AKU IKAN")
+a = "ikan"
+b = "berenang"
+
+print(a,b)
