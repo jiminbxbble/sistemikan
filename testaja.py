@@ -1,0 +1,1 @@
+print("AKU IKAN")
