@@ -1,4 +1,4 @@
-def ikan:
+def ikan(c):
     a = c-2
     return()
 
